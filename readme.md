@@ -68,7 +68,7 @@ pip install streamlit python-dotenv langchain langchain-openai langchain-communi
 Crie um arquivo .env na raiz do projeto com suas chaves de API:
 
 OPENAI_API_KEY=sua_chave_openai
-SERPER_API_KEY=sua_chave_serper   # Opcional
+SERP_API_KEY=sua_chave_serper   # Opcional
 LANGCHAIN_TRACING_V2=true         # Opcional
 LANGCHAIN_API_KEY=sua_chave_langsmith  # Opcional
 LANGCHAIN_PROJECT=nome_do_projeto     # Opcional
